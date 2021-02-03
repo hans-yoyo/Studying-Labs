@@ -21,7 +21,7 @@ public class RedisTemplateTest {
     private RedisTemplate redisTemplate;
 
     @Test
-    public void testSite(){
+    public void testSite() {
         SiteEntity site = SiteEntity.builder()
                 .siteName("无锡旺庄站")
                 .siteCode("WXGK320214000001")

@@ -8,5 +8,4 @@ package io.hans.coder.redis;
 public class JedisClientTest {
 
 
-
 }

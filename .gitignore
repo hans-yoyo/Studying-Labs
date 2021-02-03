@@ -28,5 +28,14 @@ target/
 /.nb-gradle/
 build/
 
+
+
 ### VS Code ###
 .vscode/
+
+### test
+lab-01-java-basis/src/test
+lab-02-framework-spring/src/test
+lab-03-framework-mybatis/src/test
+lab-04-framework-springboot/*/src/test
+lab-05-framework-springcloud/src/test

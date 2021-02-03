@@ -9,6 +9,12 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
+    <modules>
+        <module>lab-a-springboot-basis</module>
+        <module>lab-b-springboot-redis</module>
+        <module>lab-c-springboot-h2</module>
+    </modules>
+
     <artifactId>lab-04-framework-springboot</artifactId>
 
 
